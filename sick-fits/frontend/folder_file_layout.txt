@@ -1,0 +1,7 @@
+## An Alternative Way to Layout Folders and Files
+
+components/
+  Header/
+    index.js
+    styles.js
+    __test__.js
